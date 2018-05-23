@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Android Location</string>
+    <string name="app_name">Location</string>
     <string name="start_updates">START LOCATION UPDATES</string>
     <string name="stop_updates">STOP LOCATION UPDATES</string>
     <string name="get_last_location">GET LAST LOCATION</string>
